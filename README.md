@@ -18,25 +18,25 @@ To let the user know they need to appreciate their life.
 
 2. relevant technologies
 
-- Sensor
+- Q Sensor
+- GPS settings
+- Headphone
 
 ### c. Stakeholder Interviews (internal / external)
 
 Obstacles
 
--Kinect might not detect more than one person
+-Users can take it off anytime.
 
 Constraints
 
 -Lack of technical and digital skills
 
--Renting cost of Kinect and projector
-
 Opportunities
 
--Can exhibit artwork at events and locations that allow
+-Can cut down the cases of commit suicide.
 
--Experienced people in this field that we can consult
+-Experienced people in this field that we can consult.
 
 ### d. User observations
 
@@ -44,18 +44,18 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users - someone who does not know their own value of existence.
+potential users - someone who facing stress, like students/ workers.
 
-(user’s) behaviors - user who doesn't know their own value or appreciate about their life and others’.
+(user’s) behaviors - Loss of interest or pleasure in usual activities; Withdrawal from family and friends
 
-(user’s) attitudes - did something hurt their life.
+(user’s) attitudes - Someone who is depressed or suicidal; Thoughts of death, suicide, or wishes to be dead; A significant change in the person’s weight or appetite
 
-(user’s) aptitudes - an interactive artwork that shows the senses of human.
+(user’s) aptitudes - Fatigue or loss of energy; 
 
-(user’s) motivations - think on everyone’s life is precious and appreciation it before you start your action.
+(user’s) motivations - Feelings of worthlessness, self-reproach, or guilt;
 
-(user’s) environments - place at public or any exhibition/campaign.
+(user’s) environments - Private room.
 
-(user’s) tools - heartbeat and movement.
+(user’s) tools - Q sensor, headphone, GPS
 
-(user’s) challenges - doesn't understand or doesn't appreciate their life and others’.
+(user’s) challenges - Feeling stress or depressed in life.
