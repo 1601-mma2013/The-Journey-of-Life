@@ -24,6 +24,18 @@ To let the user know they need to appreciate their life.
 
 ### c. Stakeholder Interviews (internal / external)
 
+Product vision
+
+-This product can detect the user's stress level.
+
+-This product able to contact the user's emergency contact when the user's stress level reached an abnormal rate.
+
+Risks
+
+-The product is not known among the public. 
+
+-The product might not only detect depression but also sport and excitement.
+
 Obstacles
 
 -Users can take it off anytime.
