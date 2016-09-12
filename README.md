@@ -6,7 +6,7 @@
 
 ### a. Scope
 
-To let the user know that everyone has their own value of existence.
+To prevent suicide through public awareness.
 
 To let the user know they need to appreciate their life.
 
@@ -18,11 +18,7 @@ To let the user know they need to appreciate their life.
 
 2. relevant technologies
 
--Kinect 2
-
--Digital Light Processing Projector x2
-
--Speakers
+- Sensor
 
 ### c. Stakeholder Interviews (internal / external)
 
