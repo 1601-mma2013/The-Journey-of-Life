@@ -18,7 +18,7 @@ To let the user know they need to appreciate their life.
 
 2. relevant technologies
 
-- Q Sensor
+- E4 Sensor / Q sensor
 - GPS settings
 - Headphone
 
@@ -28,13 +28,13 @@ Product vision
 
 -This product can detect the user's stress level.
 
--This product able to contact the user's emergency contact when the user's stress level reached an abnormal rate.
+-This product able to contact the ‘National Suicide Prevention Lifeline’ when the user's stress level reached an abnormal rate.
 
 Risks
 
 -The product is not known among the public. 
 
--The product might not only detect depression but also sport and excitement.
+-High costs.
 
 Obstacles
 
@@ -46,9 +46,11 @@ Constraints
 
 Opportunities
 
--Can cut down the cases of commit suicide.
+-Can lower down the cases of commit suicide.
 
--Experienced people in this field that we can consult.
+-To care about the people around us.
+
+-Provide consultation for the people in need.
 
 ### d. User observations
 
