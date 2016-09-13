@@ -82,6 +82,7 @@ potential users - someone who facing stress, like students/ workers.
 (user’s) challenges - Feeling stress or depressed in life.
 
 2. Modeling
+
 a. Personas
 
 Name : Charlies
