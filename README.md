@@ -37,21 +37,25 @@ Product vision
 
 -This product able to contact the ‘National Suicide Prevention Lifeline’ when the user's stress level reached an abnormal rate.
 
-Risks
+-There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
+
+-There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
+
+####Risks
 
 -The product is not known among the public. 
 
 -High costs.
 
-Obstacles
+####Obstacles
 
 -Users can take it off anytime.
 
-Constraints
+####Constraints
 
 -Lack of technical and digital skills
 
-Opportunities
+####Opportunities
 
 -Can decrease the cases of commit suicide.
 
