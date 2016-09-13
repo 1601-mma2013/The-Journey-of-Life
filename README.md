@@ -12,15 +12,22 @@ To let the user know they need to appreciate their life.
 
 ### b. Audit
 
-1. competitors / alternatives / replacement
+1. Existing products
 
--Artists in field with same concept
+-Senior Care Product: http://www.aplaceformom.com/blog/2014-6-1-cutting-edge-products-for-seniors/     
+*On the cutting edge of senior care products are wireless gadgets and wearable devices that help keep loved ones safe and healthy. These devices are increasingly integrated with wireless mobile devices and cloud-based data storage, making communication and health monitoring faster and more effective than ever.
+
+-Q Sensor (Sensor detect Emotion) : https://www.technologyreview.com/s/421316/sensor-detects-emotions-through-the-skin/ ; https://www.technologyreview.com/s/508716/wrist-sensor-tells-you-how-stressed-out-you-are/   
+*Wrist-worn sensors that can detect physiological changes—including perspiration and elevated temperature—that may signal the onset of events like anxiety attacks.
+
+-E4 Wristband : https://www.empatica.com/e4-wristband    
+*The most comfortable and accurate wristband to monitor physiological signals in real-time.
 
 2. relevant technologies
 
-- E4 Sensor / Q sensor
-- GPS settings
-- Headphone
+- E4 Sensor / Q sensor 
+- Headphone/ Wireless mobile devices
+- GPS Settings
 
 ### c. Stakeholder Interviews (internal / external)
 
