@@ -81,47 +81,57 @@ potential users - someone who facing stress, like students/ workers.
 
 (user’s) challenges - Feeling stress or depressed in life.
 
-2. Modeling
+##2. Modeling
 
-a. Personas
+###a. Personas
 
-Name : Charlies
-Gender : Male
-Age : 24
-Occupation : Employee
+#####Name : Charlies
+#####Gender : Male
+#####Age : 24
+#####Occupation : Employee
 
-Goals
+####1. Goals
+
 - User will able to deal with a professional consultation when he is facing stress.
 - Through this product, the cases of commit suicide will be decreased.
 
-Patterns in user and customer behaviors
-- When people is lonely, they will think too much and will have the thoughts of death. 
-- Charlies does not have to proper channel to voice out his stress.
+####2. Patterns in user and customer behaviours
 
-Attitudes
-- Charlies wishs that someone can talk to him when he is stress.
+- When people is lonely, they will think too much and will have the thoughts of death.
+- Charlie does not have to proper channel to voice out his stress.
 
-Aptitudes
-- Charlies always keep his temper and the stress inside him will cause him to commit suicide one day.
+####3. Attitudes
 
-Environments
+- Charlie wishs that someone can talk to him when he is stress.
+
+####4. Aptitudes
+
+- Charlie always keep his temper and the stress inside him will cause him to commit suicide one day.
+
+####5. Environments
+
 - This product is a wearable devices which able the user to bring it everywhere.
 
-Tools
+####6. Tools
+
 - This products can detect your stress level and it will help you to call the professional when you are facing stress.
 - There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
 - There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
 
-Changes
+####7. Challenges
+
 - To detect the user's stress level.
 
-b. Other Models
-Represent domain factors beyond individual users and customers 1. Workflows among multiple people - You can scan several things when you listed out in your devices, through the application
+###b. Other Models
 
-Environment
+Represent domain factors beyond individual users and customers 1. Workflows among multiple people
+
+- You can know your stress level everyday through this device.
+
+####1. Environment
+
 - Wear it on user's hand wrist.
 
-Artifacts
-- Smart sensor
+####2. Artifacts
 
-
+- Smart sensor.
