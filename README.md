@@ -91,24 +91,26 @@ Age : 24
 Occupation : Employee
 
 Goals
-- Make user life easier, works in more easy way.
-- In order to have a versatile application for his work life.
+- User will able to deal with a professional consultation when he is facing stress.
+- Through this product, the cases of commit suicide will be decreased.
 
 Patterns in user and customer behaviors
-- People will thinking about suicide at a private room or in lonely.
+- When people is lonely, they will think too much and will have the thoughts of death. 
+- Charlies does not have to proper channel to voice out his stress.
 
 Attitudes
-- Smart sensor, and it can decrease the cases of commit suicide.
+- Charlies wishs that someone can talk to him when he is stress.
 
 Aptitudes
-- Detect the user's any feelings or emotions.
+- Charlies always keep his temper and the stress inside him will cause him to commit suicide one day.
 
 Environments
-- This sensor can use in wireless gadgets and wearable devices.
+- This product is a wearable devices which able the user to bring it everywhere.
 
 Tools
-- This sensor can connect with your phone or tablet, but you phone or tablet must is a wireless devices and cloud-based data storage.
-- To make communication and make health monitoring faster a snap.
+- This products can detect your stress level and it will help you to call the professional when you are facing stress.
+- There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
+- There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
 
 Changes
 - To detect the user's stress level.
@@ -117,7 +119,7 @@ b. Other Models
 Represent domain factors beyond individual users and customers 1. Workflows among multiple people - You can scan several things when you listed out in your devices, through the application
 
 Environment
-- Place device in user's hand wrist.
+- Wear it on user's hand wrist.
 
 Artifacts
 - Smart sensor
