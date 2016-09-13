@@ -89,36 +89,36 @@ Gender : Male
 Age : 24
 Occupation : Employee
 
-1. goals
+Goals
 - Make user life easier, works in more easy way.
 - In order to have a versatile application for his work life.
 
-2. Patterns in user and customer behaviors
+Patterns in user and customer behaviors
 - People will thinking about suicide at a private room or in lonely.
 
-3. Attitudes
+Attitudes
 - Smart sensor, and it can decrease the cases of commit suicide.
 
-4. Aptitudes
+Aptitudes
 - Detect the user's any feelings or emotions.
 
-5. Environments
+Environments
 - This sensor can use in wireless gadgets and wearable devices.
 
-6. Tools
+Tools
 - This sensor can connect with your phone or tablet, but you phone or tablet must is a wireless devices and cloud-based data storage.
 - To make communication and make health monitoring faster a snap.
 
-7. Changes
+Changes
 - To detect the user's stress level.
 
 b. Other Models
 Represent domain factors beyond individual users and customers 1. Workflows among multiple people - You can scan several things when you listed out in your devices, through the application
 
-1. Environment
+Environment
 - Place device in user's hand wrist.
 
-2. Artifacts
+Artifacts
 - Smart sensor
 
 
