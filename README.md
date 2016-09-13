@@ -80,3 +80,49 @@ potential users - someone who facing stress, like students/ workers.
 (user’s) tools - Q sensor, headphone, GPS
 
 (user’s) challenges - Feeling stress or depressed in life.
+
+2. Modeling
+a. Personas
+
+Name : Charlies
+Gender : Male
+Age : 24
+Occupation : Employee
+
+1. goals
+- Make user life easier, works in more easy way.
+- In order to have a versatile application for his work life.
+
+2. Patterns in user and customer behaviors
+- People will thinking about suicide at a private room or in lonely.
+
+3. Attitudes
+- Smart sensor, and it can decrease the cases of commit suicide.
+
+4. Aptitudes
+- Detect the user's any feelings or emotions.
+
+5. Environments
+- This sensor can use in wireless gadgets and wearable devices.
+
+6. Tools
+- This sensor can connect with your phone or tablet, but you phone or tablet must is a wireless devices and cloud-based data storage.
+- To make communication and make health monitoring faster a snap.
+
+7. Changes
+- To detect the user's stress level.
+
+b. Other Models
+Represent domain factors beyond individual users and customers 1. Workflows among multiple people - You can scan several things when you listed out in your devices, through the application
+
+1. Environment
+- Place device in user's hand wrist.
+
+2. Artifacts
+- Smart sensor
+
+II. Synthesis
+
+3. Requirements Definition
+
+a. Context Scenarios
