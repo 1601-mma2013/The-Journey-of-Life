@@ -8,7 +8,7 @@
 
 To prevent suicide through public awareness.
 
-To let the user know they need to appreciate their life.
+To let the user know they need to appreciate their life and life is important.
 
 ### b. Audit
 
@@ -53,7 +53,7 @@ Constraints
 
 Opportunities
 
--Can lower down the cases of commit suicide.
+-Can decrease the cases of commit suicide.
 
 -To care about the people around us.
 
