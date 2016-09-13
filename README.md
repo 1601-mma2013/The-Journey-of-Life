@@ -33,9 +33,14 @@ To let the user know they need to appreciate their life and life is important.
 
 Product vision
 
--This product can detect the user's stress level.
+-This product can detect the user's stress level.   
 
--This product able to contact the ‘National Suicide Prevention Lifeline’ when the user's stress level reached an abnormal rate.
+-This product able to contact the ‘National Suicide Prevention Lifeline’ when the user's stress level reached an abnormal rate.   
+
+-There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.    
+
+-There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
+
 
 Risks
 
@@ -81,42 +86,46 @@ potential users - someone who facing stress, like students/ workers.
 
 (user’s) challenges - Feeling stress or depressed in life.
 
-1.	Modeling
+##2. Modeling
 
-a. Personas
-Name : Charlies
-Gender : Male 
-Age : 24 
-Occupation : Employee
+###a. Personas
+#####Name : Charlies
+#####Gender : Male 
+#####Age : 24 
+#####Occupation : Employee
 
-1.	Goals
--	Make user life easier, works in more easy way.
--	In order to have a versatile application for his work life.
+####1.	Goals
+-	User will able to deal with a professional consultation when he is facing stress.
+-	Through this product, the cases of commit suicide will be decreased.
 	
-2.	Patterns in user and customer behaviours
--	People will thinking about suicide at a private room or in lonely.
+####2.	Patterns in user and customer behaviours
+-	When people is lonely, they will think too much and will have the thoughts of death. 
+-	Charlie does not have to proper channel to voice out his stress.
 
-3.	Attitudes
--	Smart sensor, and it can decrease the cases of commit suicide.
+####3.	Attitudes
+-	Charlie wishs that someone can talk to him when he is stress.
 	
-4.	Aptitudes
--	Detect the user's any feelings or emotions.
+####4.	Aptitudes
+-	Charlie always keep his temper and the stress inside him will cause him to commit suicide one day.
 
-5.	Environments
--	This sensor can use in wireless gadgets and wearable devices.
+####5.	Environments
+-	This product is a wearable devices which able the user to bring it everywhere.
 
-6.	Tools
--	This sensor can connect with your phone or tablet, but you phone or tablet must is a wireless devices and cloud-based data storage.
--	To make communication and make health monitoring faster a snap.
+####6.	Tools
+-	This products can detect your stress level and it will help you to call the professional when you are facing stress.
+-	There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress. 
+-	There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
 
-7.	Challenges
+####7.	Challenges
 - To detect the user's stress level.
 
-b. Other Models 
-Represent domain factors beyond individual users and customers 1. Workflows among multiple people - You can scan several things when you listed out in your devices, through the application
+###b. Other Models 
+Represent domain factors beyond individual users and customers 
+1. Workflows among multiple people 
+- You can know your stress level everyday through this device.
 
-1.	Environment
--	Place device in user's hand wrist.
+####1.	Environment
+-	Wear it on user's hand wrist.
 
-2.	Artifacts
--	Smart sensor
+####2.	Artifacts
+-	Smart sensor.
