@@ -154,21 +154,21 @@ This product will remind his employees to calm themselves down while they are in
 ###b. Requirements
 Describe necessary capabilities of the product
 
-####Functional and data needs - The sensor can detect blood pressure, and skin temperature and also to measure sympathetic nervous  related to stress.
-####user mental models - Employees
-####design imperatives - Shape likes a watch
-####product vision - To be able detect the stress level of the user
-####business requirements -Individual patient 
-####technology - Processing, Arduino microcontroller, Github
+#####Functional and data needs - The sensor can detect blood pressure, and skin temperature and also to measure sympathetic nervous  related to stress.
+#####user mental models - Employees
+#####design imperatives - Shape likes a watch
+#####product vision - To be able detect the stress level of the user
+#####business requirements -Individual patient 
+#####technology - Processing, Arduino microcontroller, Github
 
 ###2. Design Framework
 ###a. Elements
 Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. posture 4. input method
 
-####functional and data elements 
-####information - so that the user know how the sensor is performing
-####functions - to display the heartbeat rate and stress level of the user
-####mechanisms - performance rational thinking
-####actions - 
-####domain object models - sport watch
+#####functional and data elements 
+#####information - so that the user know how the sensor is performing
+#####functions - to display the heartbeat rate and stress level of the user
+#####mechanisms - performance rational thinking
+#####actions - 
+#####domain object models - sport watch
 
