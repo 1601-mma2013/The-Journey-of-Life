@@ -89,10 +89,10 @@ potential users - someone who facing stress, like students/ workers.
 
 ###a. Personas
 
-#####Name : Charlies
+#####Name : Charlie
 #####Gender : Male
 #####Age : 24
-#####Occupation : Employee
+#####Occupation : CEO
 
 ####1. Goals
 
@@ -139,3 +139,36 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 ####2. Artifacts
 
 - Smart sensor.
+
+##II. Synthesis
+####1. Requirements Definition
+####a. Context Scenarios
+
+Charlie is the CEO of the company. He has a great idea to help his employee to manage and detect stress level. Nowadays a lot of suicide case happen and it’s getting serious. Charlie is concern about this issues and would like to minimise the suicide cases.
+
+#Here is Charlie's context scenario :
+Charlie comes out a product which can detect his employee stress level so that his employee could manage their stress. Charlie wanted all of his employees work under a workplace with good management of stress. 
+If his employee reach the limit of the stress detector, it means that the particular employee definitely need more concern and care from others. Charlie will provide each of his employees a stress detector and it just look like a watch. It allow his employees to wear it during working hours without notice by clients because it’s exactly like a watch with stress detector function.
+This product will remind his employees to calm themselves down while they are in stress. For example, everyone is in agitated state during the meeting or rushing for deadline of the project. If the stress level reach a certain or high level, it will send a notification to Charlie and it’s the time to encourage his employees to get a proper rest. For serious case, Charlie will send a consultant to consult his employees and know what their needs. It will allow Charlie to understand more about his employees. Your number one customers are your people. Look after employees first and then customers last.
+
+####b. Requirements
+Describe necessary capabilities of the product
+
+###Functional and data needs - The sensor can detect blood pressure, and skin temperature and also to measure sympathetic nervous  ###############################related to stress.
+###user mental models - Employees
+###design imperatives - Shape likes a watch
+###product vision - To be able detect the stress level of the user
+###business requirements -Individual patient 
+###technology - Processing, Arduino microcontroller, Github
+
+##2. Design Framework
+###a. Elements
+Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. posture 4. input method
+
+####functional and data elements 
+#####information - so that the user know how the sensor is performing
+#####functions - to display the heartbeat rate and stress level of the user
+#####mechanisms - 
+#####actions - 
+#####domain object models - 
+
