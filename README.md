@@ -26,8 +26,7 @@ To let the user know they need to appreciate their life and life is important.
 2. relevant technologies
 
 - E4 Sensor / Q sensor 
-- Headphone/ Wireless mobile devices
-- GPS Settings
+- Wireless mobile devices
 
 ### c. Stakeholder Interviews (internal / external)
 
@@ -156,10 +155,10 @@ Describe necessary capabilities of the product
 
 #####Functional and data needs - The sensor can detect blood pressure, and skin temperature and also to measure sympathetic nervous  related to stress.
 #####user mental models - Employees
-#####design imperatives - Shape likes a watch
+#####design imperatives - Wristband
 #####product vision - To be able detect the stress level of the user
 #####business requirements -Individual patient 
-#####technology - Processing, Arduino microcontroller, Github
+#####technology - E4 wristband, Wireless mobile device.
 
 ###2. Design Framework
 ###a. Elements
