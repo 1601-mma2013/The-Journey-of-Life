@@ -77,9 +77,9 @@ Reference : https://www.empatica.com/e4-wristband
 ######-Transfer data online securely.
 
 #####Electrodermal Activity(EDA)
-#####Electrodermal activity (EDA), is also known as skin conductance and galvanic skin response (GSR), it refers to electrical changes, measured at the surface of the skin, that arise when the skin receives innervating signals from the brain. For most people, if you experience emotional activation, your brain sends signals to the skin to increase the level of sweating. 
+######Electrodermal activity (EDA), is also known as skin conductance and galvanic skin response (GSR), it refers to electrical changes, measured at the surface of the skin, that arise when the skin receives innervating signals from the brain. For most people, if you experience emotional activation, your brain sends signals to the skin to increase the level of sweating. 
 #####How does it measured?
-#####Refer to EDA.pdf
+######Refer to EDA.pdf
 
 ### c. Stakeholder Interviews (internal / external)
 
