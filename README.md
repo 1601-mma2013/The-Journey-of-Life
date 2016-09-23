@@ -199,12 +199,12 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 ###1. Requirements Definition
 ###a. Context Scenarios
 
-Charlie is the CEO of the company. He has a great idea to help his employee to manage and detect stress level. Nowadays a lot of suicide case happen and it’s getting serious. Charlie is concern about this issues and would like to minimise the suicide cases.
+Charlie is a student studying in Tunku Abdul Rahman College. Nowadays a lot of suicide case happen and it’s getting serious.
 
-Here is Charlie's context scenario :
-Charlie comes out a product which can detect his employee stress level so that his employee could manage their stress. Charlie wanted all of his employees work under a workplace with good management of stress. 
-If his employee reach the limit of the stress detector, it means that the particular employee definitely need more concern and care from others. Charlie will provide each of his employees a stress detector and it just look like a watch. It allow his employees to wear it during working hours without notice by clients because it’s exactly like a watch with stress detector function.
-This product will remind his employees to calm themselves down while they are in stress. For example, everyone is in agitated state during the meeting or rushing for deadline of the project. If the stress level reach a certain or high level, it will send a notification to Charlie and it’s the time to encourage his employees to get a proper rest. For serious case, Charlie will send a consultant to consult his employees and know what their needs. It will allow Charlie to understand more about his employees. Your number one customers are your people. Look after employees first and then customers last.
+Charlie is influenced by many reasons which led to the stress in his lives. Charlie’s friend always showed theirs exam or test result in front of Charlie and also let Charlie wanted to become like them. In university life have a lot of assignment and he was worry and stress about that. Those reason to let him have led to suicidal thoughts. Behind the report said a death by suicide was often not down to one single cause, and could come in different stresses. One day, Charlie’s family saw a news is about a student from Tunku Abdul Rahman college commit suicide is about the stress. Charlie‘s father is worry about Charlie so Charlie’s father brought a stress detector and it just look like a watch to Charlie. The stress detector is called E4 Wristband. Furthermore, this E4 Wristband have an application called “E4 Realtime” in mobile app is to connect the E4,  to view the  data meanwhile it also save data securely on smartphone. So Charlie’s father downloaded the application and will send it the notification to him. If Charlie reach the limit of the stress detector until he didn’t release his stress, it will come out notification from smartphone and means that definitely need more concern and care from others. This product will remind him clam themselves down while he is in stress and it’s the time to get a proper rest. 
+
+Reference : http://www.funnymalaysia.net/tarc-accounting-student-committed-suicide-due-to-resitting-of-exams/
+
 
 ###b. Requirements
 Describe necessary capabilities of the product
