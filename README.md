@@ -110,6 +110,9 @@ World Health Organisation (WHO) reports that in the last 45 years suicide rates 
 
 Besides, The Charles E. Kubly Foundation, a public charity devoted to improving the lives of those affected by depression states that many individuals are more vulnerable to the effects of stress on their mood and depressed, and these cause them have suicidal thinking. Specifically, the cognitive risk factors: interpersonal problem-solving deficits, perfectionism, hopelessness and other distorted cognitions are the causes that influence our mood and potential for suicidal thinking.
 
+Furthermore, an investigation into 130 suicides in people under 20 has revealed bereavement, physical illness, school pressures and bullying were among the themes associated with their deaths. 
+
+More than a quarter of the young people in England whose deaths were considered in the report had expressed suicidal ideas in the week before they died and more than half had previously self-harmed, academics based at the University of Manchester found. Those behind the report said a death by suicide was often not down to one single cause, and could come after a build-up of different stresses. Also, The report, the first stage in a UK-wide analysis of suicides in people aged under 25, identified warning signs in some cases and highlighted the need for the provision of proper support, the Samaritans said.
 
 Users
 
