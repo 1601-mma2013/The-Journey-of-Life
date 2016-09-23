@@ -47,7 +47,6 @@ Product vision
 
 -There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
 
--There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
 
 ####Risks
 
@@ -77,11 +76,11 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 Users
 
-potential users - someone who facing stress, like students/ workers.
+potential users -  Students/workers who facing stress.
 
-(user’s) behaviors - Loss of interest or pleasure in usual activities; Withdrawal from family and friends
+(user’s) behaviors - Loss of interest or pleasure in usual activities; Withdrawal from family and friends.
 
-(user’s) attitudes - Someone who is depressed or suicidal; Thoughts of death, suicide, or wishes to be dead; A significant change in the person’s weight or appetite
+(user’s) attitudes - Feel depressed or suicidal; Thoughts of death, suicide, or wishes to be dead; A significant change in the person’s weight or appetite
 
 (user’s) aptitudes - Fatigue or loss of energy; 
 
@@ -89,7 +88,7 @@ potential users - someone who facing stress, like students/ workers.
 
 (user’s) environments - Private room.
 
-(user’s) tools - Q sensor, headphone, GPS
+(user’s) tools - E4 wristband.
 
 (user’s) challenges - Feeling stress or depressed in life.
 
@@ -128,7 +127,6 @@ potential users - someone who facing stress, like students/ workers.
 
 - This products can detect your stress level and it will help you to call the professional when you are facing stress.
 - There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
-- There is a '3-axis accelerometer' and 'event mark button' to detect your movement and get to know either you are in sport or not.
 
 ####7. Challenges
 
