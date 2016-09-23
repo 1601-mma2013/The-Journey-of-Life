@@ -14,22 +14,22 @@ To let the user know they need to appreciate their life and life is important.
 
 1. Existing products
 
--Senior Care Product    
-*Advantages: Provide an effective way to keep health-conscious seniors more involved and in more control of their health.
-             Seniors are able to continue living comfortably in their own homes.  
- Disadvantages: High costs.
+-Senior Care Product      
+*Advantages: Provide an effective way to keep health-conscious seniors more involved and in more control of their health.      
+             Seniors are able to continue living comfortably in their own homes.        
+ Disadvantages: High costs.     
  Reference: http://www.aplaceformom.com/blog/2014-6-1-cutting-edge-products-for-seniors/
  
--Q Sensor (Sensor detect Emotion) 
-*Advantages: To tracks user excitement, engagement, stress and anxiety by detecting and recording physiological signs of stress and excitement by measuring slight electrical changes in the skin, known as electro-dermal activity (EDA).
-             It is comfortable and unobtrusive to wear all day at work, play, or sleep.
+-Q Sensor (Sensor detect Emotion)    
+*Advantages: To tracks user excitement, engagement, stress and anxiety by detecting and recording physiological signs of stress and excitement by measuring slight electrical changes in the skin, known as electro-dermal activity (EDA).       
+             It is comfortable and unobtrusive to wear all day at work, play, or sleep.      
 Reference: https://www.technologyreview.com/s/421316/sensor-detects-emotions-through-the-skin/ ; https://www.technologyreview.com/s/508716/wrist-sensor-tells-you-how-stressed-out-you-are/   
 
 -E4 Wristband   
-*Advantages: To monitor physiological signals in real-time.
-             Stress monitoring in everyday life
-             Can connect the E4 directly to your smartphone.
-             Transfer data online securely.
+*Advantages: To monitor physiological signals in real-time.     
+             Stress monitoring in everyday life      
+             Can connect the E4 directly to your smartphone.     
+             Transfer data online securely.       
 Reference : https://www.empatica.com/e4-wristband 
 
 2. relevant technologies
