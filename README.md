@@ -81,6 +81,9 @@ Reference : https://www.empatica.com/e4-wristband
 #####How does it measured?
 ######Refer to EDA.pdf
 
+#####PPG Sensor
+######Refer to PPG.pdf
+
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
