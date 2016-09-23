@@ -106,7 +106,10 @@ Product vision
 
 ### d. User observations
 
-Understand user needs and behavior and describe it. Find various aspect of audience/customer
+World Health Organisation (WHO) reports that in the last 45 years suicide rates have increased by 60% worldwide. Now, suicide is among the three leading causes of death among those aged 15-44 in both of male and female. Suicide attempts are up to 20 times more frequent than completed suicides. WHO states that mental health disorders especially depression and substance abuse are associated with more than 90% of all cases of suicide.
+
+Besides, The Charles E. Kubly Foundation, a public charity devoted to improving the lives of those affected by depression states that many individuals are more vulnerable to the effects of stress on their mood and depressed, and these cause them have suicidal thinking. Specifically, the cognitive risk factors: interpersonal problem-solving deficits, perfectionism, hopelessness and other distorted cognitions are the causes that influence our mood and potential for suicidal thinking.
+
 
 Users
 
