@@ -76,6 +76,11 @@ Reference : https://www.empatica.com/e4-wristband
 ######-You can receive computed data, such as IBI values, steps, etc.
 ######-Transfer data online securely.
 
+#####Electrodermal Activity(EDA)
+#####Electrodermal activity (EDA), is also known as skin conductance and galvanic skin response (GSR), it refers to electrical changes, measured at the surface of the skin, that arise when the skin receives innervating signals from the brain. For most people, if you experience emotional activation, your brain sends signals to the skin to increase the level of sweating. 
+#####How does it measured?
+#####Refer to EDA.pdf
+
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
@@ -113,6 +118,11 @@ Besides, The Charles E. Kubly Foundation, a public charity devoted to improving 
 Furthermore, an investigation into 130 suicides in people under 20 has revealed bereavement, physical illness, school pressures and bullying were among the themes associated with their deaths. 
 
 More than a quarter of the young people in England whose deaths were considered in the report had expressed suicidal ideas in the week before they died and more than half had previously self-harmed, academics based at the University of Manchester found. Those behind the report said a death by suicide was often not down to one single cause, and could come after a build-up of different stresses. Also, The report, the first stage in a UK-wide analysis of suicides in people aged under 25, identified warning signs in some cases and highlighted the need for the provision of proper support, the Samaritans said.
+
+References:
+-http://www.befrienders.org/suicide-statistics
+-http://charlesekublyfoundation.org/resource-center/resource-articles/stress-and-suicide/
+-http://www.telegraph.co.uk/news/2016/05/26/exam-stress-among-causes-of-teen-suicide/
 
 Users
 
