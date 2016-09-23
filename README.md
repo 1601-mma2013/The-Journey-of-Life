@@ -34,16 +34,14 @@ Reference : https://www.empatica.com/e4-wristband
 
 2. relevant technologies
 
-- E4 Sensor / Q sensor 
-- Wireless mobile devices
+- E4 Wristband.
+
 
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
 
 -This product can detect the user's stress level.
-
--This product able to contact the ‘National Suicide Prevention Lifeline’ when the user's stress level reached an abnormal rate.
 
 -There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
 
@@ -103,7 +101,6 @@ potential users -  Students/workers who facing stress.
 
 ####1. Goals
 
-- User will able to deal with a professional consultation when he is facing stress.
 - Through this product, the cases of commit suicide will be decreased.
 
 ####2. Patterns in user and customer behaviours
