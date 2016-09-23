@@ -32,19 +32,27 @@ Reference: https://www.technologyreview.com/s/421316/sensor-detects-emotions-thr
              Transfer data online securely.       
 Reference : https://www.empatica.com/e4-wristband 
 
-2. relevant technologies
+####2. relevant technologies
 
-- E4 Wristband.
+##### E4 Wristband.
 
+######-E4 working mode: 
+###### *Recording mode: The E4 wristband can stores data in its internal memory. The data are able to downloaded to Windows and Mac via USB through the Empatica Manager.
+###### *Streaming mode: The E4 wristband can connects to a smartphone or desktop computer via Bluetooth. Realtime App and mobile API is offered for iOS and Android mobile devices to allow the user to receive the data in real-time.
+###### *Both modes upload the data recorded in Empatica's secure cloud platform. Empatica Connect allows users to easily access their data.
+ 
+######-How E4 works:
+######1. The patient can plug the E4 into a Mac, PC, or tablet, that is running the Empatica E4 Manager. 
+######2. This charges the sensor at the same time.
+######3. While the sensor is charging, the data transfers effortlessly to the secure cloud.
+######4. The researchers can log into Empatica Connect dashboard to visualize all the raw data. Researchers can download the raw data for further processing with their favorite research software.
+######5. The researchers can receive and observe the data of the patients in real-time via the E4 Realtime Mobile App.
 
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
 
 -This product can detect the user's stress level.
-
--There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
-
 
 ####Risks
 
