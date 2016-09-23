@@ -138,8 +138,8 @@ potential users -  Students/workers who facing stress.
 
 #####Name : Charlie
 #####Gender : Male
-#####Age : 24
-#####Occupation : CEO
+#####Age : 21
+#####Occupation : Student
 
 ####1. Goals
 
