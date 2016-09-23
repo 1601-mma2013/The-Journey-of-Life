@@ -36,17 +36,45 @@ Reference : https://www.empatica.com/e4-wristband
 
 ##### E4 Wristband.
 
-######-E4 working mode: 
+#####-E4 working mode: 
 ###### *Recording mode: The E4 wristband can stores data in its internal memory. The data are able to downloaded to Windows and Mac via USB through the Empatica Manager.
 ###### *Streaming mode: The E4 wristband can connects to a smartphone or desktop computer via Bluetooth. Realtime App and mobile API is offered for iOS and Android mobile devices to allow the user to receive the data in real-time.
 ###### *Both modes upload the data recorded in Empatica's secure cloud platform. Empatica Connect allows users to easily access their data.
  
-######-How E4 works:
+#####-How E4 works:
 ######1. The patient can plug the E4 into a Mac, PC, or tablet, that is running the Empatica E4 Manager. 
 ######2. This charges the sensor at the same time.
 ######3. While the sensor is charging, the data transfers effortlessly to the secure cloud.
 ######4. The researchers can log into Empatica Connect dashboard to visualize all the raw data. Researchers can download the raw data for further processing with their favorite research software.
 ######5. The researchers can receive and observe the data of the patients in real-time via the E4 Realtime Mobile App.
+
+#####E4 Realtime Mobile App
+######- This app allows you to connect the E4 directly to your smartphone (or an iPod, iPad, tablet) and look at the signals.
+######Features:
+######-View sensor data in real time.
+######-Easily zoom and pan to review signals.
+######-Save data securely on your smartphone.
+######-Automatic data upload to Empatica Connect’s secure cloud storage.
+
+#####Empatica Connect – Web dashboard
+######-This web dashboard allows you to store, review, and download all the raw data on our secure platform.
+######Features:
+######-Easily connect and upload data.
+######-Data is encrypted.
+######-Precisely timestamped sessions.
+######-Download raw data in CSV format.
+######-Use our algorithms or use yours.
+######-Compare session details and signal streams.
+######-Filter sessions by date, user, and device.
+######-Manage your devices and users.
+
+#####Mobile API
+######-You can build your custom mobile app to suit your needs.
+######Features:
+######-You can connect to and manage one or a group of Empatica E4 wristbands.
+######-You can receive real-time raw data from the connected E4 (EDA, Blood Volume Pulse, 3-axis and accelerometers).
+######-You can receive computed data, such as IBI values, steps, etc.
+######-Transfer data online securely.
 
 ### c. Stakeholder Interviews (internal / external)
 
