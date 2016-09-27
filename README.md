@@ -34,8 +34,6 @@
 ######EDA: Used to measure sympathetic nervous system arousal and to derive features related to stress, engagement and excitement.
 #####-	3-axis Accelerometer
 ######Captures motion-based activities
-#####-	Event Mark Button
-######Tags events and correlate them with physiological signals.
 
 ####3. Competitors /alternatives/ replacements
 ######We will have the same concept with the competitors of these products but the uses might be different. 
