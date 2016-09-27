@@ -244,7 +244,7 @@ Describe necessary capabilities of the product
      - Primary users can download the appliaction to check the data from the secondary users.
 
 ####Accomplish user’s goals
-     - Secondary users can know their autistic child's emotions all the time.
+     - Primary users can know their autistic child's emotions all the time.
         
 ####Best fit the design principles
      - One screen design with simple and easy to use, without confusing the user.
