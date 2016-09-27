@@ -72,6 +72,11 @@ Users are able to observe the conditions of their children with autism all the t
 -	potential users – Autistic children’s parents
 -	(user’s) behaviours - They are busy in their works, they cannot accompany their children all the time. They always phone the nanny of their child to know the emotion and activities of their child. They always attend to the classes or programs that they can learn the strategies to communicate with their child. 
 -	(user’s) attitudes -  They are willing to know the emotions and conditions of their child when they are not beside their child. They are willing to know their child well through consult the expert in autism theraphy field. 
+-	(user’s) motivations – Know their children’s conditions all the times.
+-	(user’s) environments - Anywhere that in good phone service range.
+-	(user’s) tools - Handphone
+-	(user’s) challenges - Unable to access the app at a bad phone service range area.
+
 
 ####Secondary Users
 -	potential users – Autistic children
@@ -102,6 +107,11 @@ Users are able to observe the conditions of their children with autism all the t
 -Does not express concern or understanding to people in distress                 
 
 -	(user’s) attitudes - They are willing to communicate with their parents through action, using pictures and echolalia which means the repetition of other people's words.
+-	(user’s) motivations – Willing to communicate with their parents.
+-	(user’s) environments - Anywhere that in good phone service range.
+-	(user’s) tools - Wristband
+-	(user’s) challenges - Unable to access the app at a bad phone service range area.
+
 
 
 ##2. Modeling
