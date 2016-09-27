@@ -123,6 +123,11 @@ Users are able to observe the conditions of their children with autism all the t
 #####Age : 31
 #####Occupation : Lawyer
 
+####Bio
+
+- Susan is a lawyer. She is busy in her works. 
+- Susan is a mother of an autistic child, Abby.  She is no expert of autism and she cannot accompany Abby all the time. She always phones the nanny of their child to know the emotion and activities of their child. However, she is willing to know the emotions and conditions of Abby when they are not beside Abby.
+
 ####1. Goals
 
 - As a mother, she wants to understand about her autistic child, Abby.
