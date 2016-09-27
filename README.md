@@ -153,12 +153,22 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 ###b. Requirements
 Describe necessary capabilities of the product
 
-#####Functional and data needs - The sensor can detect blood pressure, and skin temperature and also to measure sympathetic nervous  related to stress.
-#####user mental models - Employees
-#####design imperatives - Wristband
-#####product vision - To be able detect the stress level of the user
-#####business requirements -Individual patient 
-#####technology - E4 wristband, Wireless mobile device.
+####•	Functional and data needs: 
+#####Mobile App
+1.	Calling buttons: The user can set your emergency contacts here so that the user can call the one immediately when emergency.
+2.	Camera button: To activate the camera of the wristband so that you can observe what your child is doing.
+3.	Cancel button: To ignore the notifications.
+4.	Data connect button: Users can view, organize, assess, and download all of the secondary users’ recorded data on a secure cloud platform. Users can also view graphs of Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.
+#####Device (E&F Wristband)
+1. Flash memory: Store data                           
+2. Camera: Can be activate by the primary users through the app. Secondary users can use it to snap pictures and send the pictures to the primary users.                               
+3. Sensor: Detect the emotions of the secondary users by detecting Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.                  
+####•	user mental models: 
+####•	design imperatives: 
+####•	product vision: Users are able to observe the conditions of their children with autism all the time.
+####•	business requirements
+####•	technology: EDA sensor, 3-axis accelerometer, Camera 
+
 
 ###2. Design Framework
 ###a. Elements
