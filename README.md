@@ -264,7 +264,7 @@ Describe necessary capabilities of the product
 [![14456728_599828330188338_906614571_o (1).jpg](https://s4.postimg.org/9z97ove1p/14456728_599828330188338_906614571_o_1.jpg)](https://postimg.org/image/pxhxf089l/)
 [![Design sketch.jpg](https://s13.postimg.org/t0dn299jb/Design_sketch.jpg)](https://postimg.org/image/83hexlbib/)
 
-###Keypath Scenario
+###Key path Scenario
 1.	Susan actives the apps with her Android phone. At the homepage, Susan click in into the main page. Susan click the “call” page to key in the emergency contact to easily to find people.
 2.	Next, Susan taps “Data Connect”. Susan can view, organize, access and download all the recorded data from her daughter Abby at “Secondary user’s data” tab. Susan will turn on her mobile phone and the sensor device’s Bluetooth to transfer the pervious data into the “History data” tab.
 3.	In the “EDA” tab, Susan can see the graph of EDA from her daughter. Susan taps the “3-axis accelerometer” tab inside are the data of the movement and the activity of her daughter.
