@@ -25,8 +25,8 @@
 - Use our mobile API to access real-time E4 data in your app.
 
 ###### *Pros: - Users can monitor and understand their physiological signals better in real-time.
-###### *Cons: - Costly
-######        - There are too many sensors and data acquisition.
+###### *Cons: - High cost.
+
 
 ####2. relevant technologies
 
@@ -46,26 +46,26 @@
 
 ### c. Stakeholder Interviews (internal / external)
 
-Product vision
-Users are able to observe the condition of their children with autism all the time.
+Product vision: 
+Users are able to observe the conditions of their children with autism all the time.
 
 ####Risks
 
-- Information does not updated in every moment.
+- The notifications cannot reached to the users when the device or the users' phones is out of battery.
 - Users do not notice the messages when they are answering a call.
 
 ####Obstacles
 
-- Accuracy of EDA and activities track
+- Needs to be in a good phone service range.
 
 ####Constraints
 
-- Missed out on sending notifications.
+- The app cannot call out if in a bad phone service range.
 - The app is useless if secondary users do not wear the wristband.
 
 ####Opportunities
 
-- Minimize the time needed to send notifications.
+- Parents can get to know their children's condition in real-time.
 
 ### d. User observations
 
