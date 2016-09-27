@@ -176,7 +176,17 @@ Describe necessary capabilities of the product
 
 ###2. Design Framework
 ###a. Elements
-Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. posture 4. input method
+####a. Form factor, posture and input methods
+
+  ##Form factor:
+        This a sensor device and an application mobile phone.
+
+  ##Posture:
+        The mode of attention are emotions of autistic child.
+
+    Input methods:
+        This sensor detect the emotions and the application is uses touchscreen .
+
 
 #####functional and data elements 
 #####information - so that the user know how the sensor is performing
