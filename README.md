@@ -54,7 +54,32 @@ Product vision
 
 ####Secondary Users
 -	potential users – Autistic children
--	(user’s) behaviours - They are having difficulties in social interaction, verbal and non-verbal communication, and repetitive behaviours. They make no eye contact, does not look towards loud noises and resist on touch. Besides, they like to focus on one item for a long period of time. They also show no respond to their name starting at the age of 10.
+-	(user’s) behaviours     
+
+######Infant to Six Months,                                  
+-does not smile back at you                           
+-makes no eye contact                             
+-does not look towards loud noises                               
+-Unresponsive to people                                         
+-Tendency to focus on one item for a long period of time                           
+-Resistance to being touched                                
+-High sensitivity to sound, touch.                                   
+
+######By One Years Old,                                
+-Not responding to their name                               
+-No joyful expressions                                
+-Lack of babbling                            
+-Lack of eye contact                           
+-Staring for a long time at items which aren't moving                                
+-No gestures, such as pointing, showing, reaching, or waving.                     
+
+######By Toddler Age,                    
+-Delayed speech                              
+-avoidance of making eye contact with people                           
+-poor imitation skills (inability of imitating simple gestures or facial expressions)                          
+-Non responsive to their name                   
+-Does not express concern or understanding to people in distress                 
+
 -	(user’s) attitudes - They are willing to communicate with their parents through action, using pictures and echolalia which means the repetition of other people's words.
 
 
