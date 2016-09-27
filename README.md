@@ -14,7 +14,7 @@
 
 #####-Q Sensor 
 ###### A device  that can detect and record physiological signs of stress and excitement by measuring slight electrical changes in the skin.
-###### *Cons: - Data acquisition are not very accurate.
+###### *Cons: - Data acquisition is not very accurate.
 
 #####-E4 Wristband
 ###### A wearable wireless device designed for continuous, real-time data acquisition in daily life.
@@ -49,7 +49,7 @@ Users are able to observe the conditions of their children with autism all the t
 
 ####Risks
 
-- The notifications cannot reached to the users when the device or the users' phones is out of battery.
+- The notifications cannot reach to the users when the device or the users' phones is out of battery.
 - Users do not notice the messages when they are answering a call.
 
 ####Obstacles
@@ -71,10 +71,10 @@ Users are able to observe the conditions of their children with autism all the t
 
 -	potential users – Autistic children’s parents
 -	(user’s) behaviours - They are busy in their works, they cannot accompany their children all the time. They always phone the nanny of their child to know the emotion and activities of their child. They always attend to the classes or programs that they can learn the strategies to communicate with their child. 
--	(user’s) attitudes -  They are willing to know the emotions and conditions of their child when they are not beside their child. They are willing to know their child well through consult the expert in autism theraphy field. 
+-	(user’s) attitudes -  They are willing to know the emotions and conditions of their child when they are not beside their child. They are willing to know their child well through consult the expert in autism field. 
 -	(user’s) motivations – Know their children’s conditions all the times.
 -	(user’s) environments - Anywhere that in good phone service range.
--	(user’s) tools - Handphone
+-	(user’s) tools - Mobile phone
 -	(user’s) challenges - Unable to access the app at a bad phone service range area.
 
 
@@ -138,7 +138,7 @@ Users are able to observe the conditions of their children with autism all the t
 
 ####3. Attitudes
 
-- She wants to understand Abby better. Besides professional autism therapy services, she and her husband bring Abby to interative with programs of autistic children once a month. Also, she and her husband attend to the training programs that teaches parents strategies for managing challenging behavior in children with autism when they have free time.
+- She wants to understand Abby better. Besides professional autism therapy services, she and her husband bring Abby to interative with programs of autistic children once a month. Also, she and her husband attend to the training programs that teaches parents strategies for managing challenging behaviour in children with autism when they have free time.
 
 ####4.	Environments 
 
@@ -146,7 +146,7 @@ Users are able to observe the conditions of their children with autism all the t
 
 ####5. Tools 
 
-- Handphone
+- Mobile phone
 
 ####Challenges 
 
@@ -164,7 +164,7 @@ Users are able to observe the conditions of their children with autism all the t
 ######2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notification. 
 ######3.	The app suggests fews ways for Susan to answer the notification. The app is having the calling button that allow Susan to call the nanny of Abby or her husband. The app is also having the camera button and cancel button. 
 ######4.  Susan first chooses to call the nanny but the nanny did not answer her phone call. Then, Susan calls her husband but she gets a voicemail; he must out of service range. 
-######5.  Susan failed to contact the nanny and her husband. So, she clicks on the camera button from the app. This camera button is allowing Susan to activate the camera of Abby's wristband and she can see what Abby is doing now. When the camera is activate, she sees that Abby is drawing in her room. After she made sure that Abby is safe, she closes the app and continues her meeting with her client.
+######5.  Susan failed to contact the nanny and her husband. So, she clicks on the camera button from the app. This camera button is allowing Susan to activate the camera of Abby's wristband and she can see what Abby is doing now. When the camera is activated, she sees that Abby is drawing in her room. After she made sure that Abby is safe, she closes the app and continues her meeting with her client.
 ######6.	Five minutes later, the phones sounds a brief tone. Susan receive an instant message from the nanny:" Don't worry, Abby is scared by a rat just now. I had killed the rat and Abby has now calmed down."
 
 
@@ -196,9 +196,26 @@ Describe necessary capabilities of the product
 
 ####•	business requirements
 #####Collected Information
+
 - Users prefer a simple and user friendly interface
 
-####•	technology: 
+#####Key Attributes of the Product
+
+- A customized serviced specifically for autism.
+- Primary users will receive an alert notification when the secondary user is in a bad emotional condition.
+- Primary users can check the condition of the secondary user by activate the camera on the wristband.
+
+#####Scope of the Project
+
+- To let the parents to understand their autistic child.
+
+#####Phases of the Project
+
+- With alert messages, primary user will be informed when the secondary user is in a bad emotional condition.
+- This device provides many ways for the primary users to observe the secondary users.
+
+
+####Technology: 
 #####EDA sensor, 3-axis accelerometer, Camera, Phone
 
 
