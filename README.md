@@ -187,7 +187,7 @@ Describe necessary capabilities of the product
 #####Primary users can observe the condition of secondary users all the time and get notifications when secondary users in bad emotional condition.
 
 ####•	design imperatives: 
-#####The application get the data that detected from the device.
+#####The application gets the data that detected from the device.
 #####The application provides features of contacting the emergency contacts.
 #####The device provides features of sending notifications to primary users when secondary users in bad emotional condition.
 
@@ -224,13 +224,13 @@ Describe necessary capabilities of the product
 ####a. Form factor, posture and input methods
 
 ####Form factor:
-        This a sensor device and an application mobile phone.
+        A sensor device and an application mobile phone.
 
 ####Posture:
         The mode of attention are emotions of autistic child.
 
 ####Input methods:
-        This sensor detect the emotions and the application is uses buttons .
+        This sensor detect the emotions and the application is using mobile phone.
 
 ####b.Functional and data elements 
 
