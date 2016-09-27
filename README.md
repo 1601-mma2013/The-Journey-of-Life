@@ -6,207 +6,128 @@
 
 ### a. Scope
 
-To prevent suicide through public awareness.
-
-To let the user know they need to appreciate their life and life is important.
+-	To let the parents to understand their autistic child.
 
 ### b. Audit
 
-1. Existing products
+####1. Existing products
 
--Senior Care Product      
-*Advantages: Provide an effective way to keep health-conscious seniors more involved and in more control of their health.      
-             Seniors are able to continue living comfortably in their own homes.        
- Disadvantages: High costs.     
- Reference: http://www.aplaceformom.com/blog/2014-6-1-cutting-edge-products-for-seniors/
- 
--Q Sensor (Sensor detect Emotion)    
-*Advantages: To tracks user excitement, engagement, stress and anxiety by detecting and recording physiological signs of stress and excitement by measuring slight electrical changes in the skin, known as electro-dermal activity (EDA).       
-             It is comfortable and unobtrusive to wear all day at work, play, or sleep.      
-Reference: https://www.technologyreview.com/s/421316/sensor-detects-emotions-through-the-skin/ ; https://www.technologyreview.com/s/508716/wrist-sensor-tells-you-how-stressed-out-you-are/   
-
--E4 Wristband   
-*Advantages: To monitor physiological signals in real-time.     
-             Stress monitoring in everyday life      
-             Can connect the E4 directly to your smartphone.     
-             Transfer data online securely.       
-Reference : https://www.empatica.com/e4-wristband 
+######-Q Sensor 
+######-E4 Wristband
 
 ####2. relevant technologies
 
-##### E4 Wristband.
+#####-	EDA Sensor (GSR Sensor)
+######EDA: Used to measure sympathetic nervous system arousal and to derive features related to stress, engagement and excitement.
+#####-	3-axis Accelerometer
+######Captures motion-based activities
+#####-	Event Mark Button
+######Tags events and correlate them with physiological signals.
 
-#####-E4 working mode: 
-###### *Recording mode: The E4 wristband can stores data in its internal memory. The data are able to downloaded to Windows and Mac via USB through the Empatica Manager.
-###### *Streaming mode: The E4 wristband can connects to a smartphone or desktop computer via Bluetooth. Realtime App and mobile API is offered for iOS and Android mobile devices to allow the user to receive the data in real-time.
-###### *Both modes upload the data recorded in Empatica's secure cloud platform. Empatica Connect allows users to easily access their data.
- 
-#####-How E4 works:
-######1. The patient can plug the E4 into a Mac, PC, or tablet, that is running the Empatica E4 Manager. 
-######2. This charges the sensor at the same time.
-######3. While the sensor is charging, the data transfers effortlessly to the secure cloud.
-######4. The researchers can log into Empatica Connect dashboard to visualize all the raw data. Researchers can download the raw data for further processing with their favorite research software.
-######5. The researchers can receive and observe the data of the patients in real-time via the E4 Realtime Mobile App.
+####3. Competitors /alternatives/ replacements
+######We will have the same concept with the competitors of these products but the uses might be different. 
+######Pros- For the parents to understand more about their autistic child.
+######Cons- Poor family cannot afford.
 
-#####E4 Realtime Mobile App
-######- This app allows you to connect the E4 directly to your smartphone (or an iPod, iPad, tablet) and look at the signals.
-######Features:
-######-View sensor data in real time.
-######-Easily zoom and pan to review signals.
-######-Save data securely on your smartphone.
-######-Automatic data upload to Empatica Connect’s secure cloud storage.
 
-#####Empatica Connect – Web dashboard
-######-This web dashboard allows you to store, review, and download all the raw data on our secure platform.
-######Features:
-######-Easily connect and upload data.
-######-Data is encrypted.
-######-Precisely timestamped sessions.
-######-Download raw data in CSV format.
-######-Use our algorithms or use yours.
-######-Compare session details and signal streams.
-######-Filter sessions by date, user, and device.
-######-Manage your devices and users.
-
-#####Mobile API
-######-You can build your custom mobile app to suit your needs.
-######Features:
-######-You can connect to and manage one or a group of Empatica E4 wristbands.
-######-You can receive real-time raw data from the connected E4 (EDA, Blood Volume Pulse, 3-axis and accelerometers).
-######-You can receive computed data, such as IBI values, steps, etc.
-######-Transfer data online securely.
-
-#####Electrodermal Activity(EDA)
-######Electrodermal activity (EDA), is also known as skin conductance and galvanic skin response (GSR), it refers to electrical changes, measured at the surface of the skin, that arise when the skin receives innervating signals from the brain. For most people, if you experience emotional activation, your brain sends signals to the skin to increase the level of sweating. 
-#####How does it measured?
-######Refer to EDA.pdf
-
-#####PPG Sensor
-######Refer to PPG.pdf
 
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
 
--This product can detect the user's stress level.
-
 ####Risks
-
--The product is not known among the public. 
-
--High costs.
 
 ####Obstacles
 
--Users can take it off anytime.
-
 ####Constraints
-
--Lack of technical and digital skills
 
 ####Opportunities
 
--Can decrease the cases of commit suicide.
-
--To care about the people around us.
-
--Provide consultation for the people in need.
 
 ### d. User observations
 
-World Health Organisation (WHO) reports that in the last 45 years suicide rates have increased by 60% worldwide. Now, suicide is among the three leading causes of death among those aged 15-44 in both of male and female. Suicide attempts are up to 20 times more frequent than completed suicides. WHO states that mental health disorders especially depression and substance abuse are associated with more than 90% of all cases of suicide.
+####Primary Users
 
-Besides, The Charles E. Kubly Foundation, a public charity devoted to improving the lives of those affected by depression states that many individuals are more vulnerable to the effects of stress on their mood and depressed, and these cause them have suicidal thinking. Specifically, the cognitive risk factors: interpersonal problem-solving deficits, perfectionism, hopelessness and other distorted cognitions are the causes that influence our mood and potential for suicidal thinking.
+-	potential users – Autistic children’s parents
+-	(user’s) behaviours -  They are busy in their works, they cannot accompany their children all the time.
+-	(user’s) attitudes - They are not expert in autism, so they do not know their children’s feeling and emotions.
 
-Furthermore, an investigation into 130 suicides in people under 20 has revealed bereavement, physical illness, school pressures and bullying were among the themes associated with their deaths. 
+####Secondary Users
+-	potential users – Autistic children
+-	(user’s) behaviours -  They are having difficulties in social interaction, verbal and non-verbal communication, and repetitive behaviours.
+-	(user’s) attitudes - 
 
-More than a quarter of the young people in England whose deaths were considered in the report had expressed suicidal ideas in the week before they died and more than half had previously self-harmed, academics based at the University of Manchester found. Those behind the report said a death by suicide was often not down to one single cause, and could come after a build-up of different stresses. Also, The report, the first stage in a UK-wide analysis of suicides in people aged under 25, identified warning signs in some cases and highlighted the need for the provision of proper support, the Samaritans said.
+Infant to Six Months,
+does not smile back at you
+makes no eye contact
+does not look towards loud noises
+Unresponsive to people
+Tendency to focus on one item for a long period of time
+Resistance to being touched
+High sensitivity to sound, touch.
 
-References:
--http://www.befrienders.org/suicide-statistics
--http://charlesekublyfoundation.org/resource-center/resource-articles/stress-and-suicide/
--http://www.telegraph.co.uk/news/2016/05/26/exam-stress-among-causes-of-teen-suicide/
 
-Users
+By One Years Old,
+Not responding to their name
+No joyful expressions
+Lack of babbling
+Lack of eye contact
+Staring for a long time at items which aren't moving
+No gestures, such as pointing, showing, reaching, or waving.
 
-potential users -  Students/workers who facing stress.
+By Toddler Age,
+Delayed speech
+avoidance of making eye contact with people
+poor imitation skills (inability of imitating simple gestures or facial expressions)
+Non responsive to their name
+Does not express concern or understanding to people in distress
 
-(user’s) behaviors - Loss of interest or pleasure in usual activities; Withdrawal from family and friends.
-
-(user’s) attitudes - Feel depressed or suicidal; Thoughts of death, suicide, or wishes to be dead; A significant change in the person’s weight or appetite
-
-(user’s) aptitudes - Fatigue or loss of energy; 
-
-(user’s) motivations - Feelings of worthlessness, self-reproach, or guilt;
-
-(user’s) environments - Private room.
-
-(user’s) tools - E4 wristband.
-
-(user’s) challenges - Feeling stress or depressed in life.
 
 ##2. Modeling
 
 ###a. Personas
 
-#####Name : Charlie
-#####Gender : Male
-#####Age : 21
-#####Occupation : Student
+#####Name : Susan
+#####Gender : Female
+#####Age : 31
+#####Occupation : Lawyer
 
 ####1. Goals
 
-- Through this product, the cases of commit suicide will be decreased.
+- As a mother, she wants to understand about her autistic child.
 
 ####2. Patterns in user and customer behaviours
 
-- When people is lonely, they will think too much and will have the thoughts of death.
-- Charlie does not have to proper channel to voice out his stress.
+- She busy in her works all the time and she has no time to accompany her child.
 
 ####3. Attitudes
 
-- Charlie wishs that someone can talk to him when he is stress.
+- She is not expert in autism.  She wants to understand their children’s feeling and emotions but she does not know the way.
 
-####4. Aptitudes
+####4. Challenges
 
-- Charlie always keep his temper and the stress inside him will cause him to commit suicide one day.
-
-####5. Environments
-
-- This product is a wearable devices which able the user to bring it everywhere.
-
-####6. Tools
-
-- This products can detect your stress level and it will help you to call the professional when you are facing stress.
-- There is a PPG Sensor and a infrared thermopile which can detect your blood pressure, and your skin temperature. The GSR sensor help to used to measure sympathetic nervous system arousal and to derive features related to stress.
-
-####7. Challenges
-
-- To detect the user's stress level.
+- To understand her autistic child well.
 
 ###b. Other Models
 
 Represent domain factors beyond individual users and customers 1. Workflows among multiple people
 
-- You can know your stress level everyday through this device.
-
 ####1. Environment
-
-- Wear it on user's hand wrist.
 
 ####2. Artifacts
 
-- Smart sensor.
 
 ##II. Synthesis
 ###1. Requirements Definition
 ###a. Context Scenarios
 
-Charlie is a student studying in Tunku Abdul Rahman College. Nowadays a lot of suicide case happen and it’s getting serious.
-
-Charlie is influenced by many reasons which led the stress into his lives. Charlie’s friends always showed their exam or test results front of him and let Charlie wanted to become like them. In university life have lots of assignments and he was worried and stress about that. Those reasons led him to suicidal thoughts. Behind the report said a death by suicide was often not down to one single cause, and could come in different stresses. One day, Charlie’s family saw a news is about a student from Tunku Abdul Rahman college commit suicide is about the stress. Charlie‘s father is worrying about Charlie so Charlie’s father brought a stress detector and it just look like a watch to Charlie. The stress detector is called E4 Wristband. Furthermore, this E4 Wristband have an application called “E4 Realtime” in mobile app is to connect the E4, to view the  data meanwhile it also save data securely on smartphone. So Charlie’s father downloaded the application and will send it the notification to him. If Charlie reach the limit of the stress detector until he didn’t release his stress, it will come out notification from smartphone and means that definitely need more concern and care from others. This product will remind him calm themselves down while he is in stress and it’s the time to get a proper rest. 
-
-Reference : http://www.funnymalaysia.net/tarc-accounting-student-committed-suicide-due-to-resitting-of-exams/
+-Our persona is Susan Wong, a professional lawyer, whose goals are to understand her autistic child.
+-Here is Susan’s context scenario:
+1.	While getting ready in the morning, Susan makes sure her child, Abby is wearing the E&F wristband before she is going to work.
+2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notifications. 
+3.	She phones the nanny of Abby and ask her about why Abby is having an emotional turmoil.
+4.	The nanny told her that Abby is affected by the sound of the construction next door.
+5.	Susan calls her husband to see if he is free and her husband told her that he can go back home to comfort Abby and he will bring Abby to a silent place.
 
 
 ###b. Requirements
