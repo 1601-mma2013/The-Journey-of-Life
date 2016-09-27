@@ -135,13 +135,18 @@ Users are able to observe the conditions of their children with autism all the t
 
 - She wants to understand Abby better. Besides professional autism therapy services, she and her husband bring Abby to interative with programs of autistic children once a month. Also, she and her husband attend to the training programs that teaches parents strategies for managing challenging behavior in children with autism when they have free time.
 
-###b. Other Models
+####4.	Environments 
 
-Represent domain factors beyond individual users and customers 1. Workflows among multiple people
+- Anywhere that in good phone service range.
 
-####1. Environment
+####5. Tools 
 
-####2. Artifacts
+- Handphone
+
+####Challenges 
+
+- Unable to access the app at a bad phone service range area.
+
 
 
 ##II. Synthesis
