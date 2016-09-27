@@ -266,7 +266,7 @@ https://s13.postimg.org/t0dn299jb/Design_sketch.jpg
 
 
 ###Keypath Scenario
-###1.	Susan actives the apps with her Android phone. At the homepage, Susan click in into the main page. Susan click the “call” page to key in the emergency contact to easily to find people.
-###2.	Next, Susan taps “Data Connect”. Susan can view, organize, access and download all the recorded data from her daughter Abby at “Secondary user’s data” tab. Susan will turn on her mobile phone and the sensor device’s Bluetooth to transfer the pervious data into the “History data” tab.
-###3.	In the “EDA” tab, Susan can see the graph of EDA from her daughter. Susan taps the “3-axis accelerometer” tab inside are the data of the movement and the activity of her daughter.
-###4.	Susan wants to see her daughter all the time, she wants to click the “Camera” tab to snap pictures and also can activate the camera of the sensor device. For the “Cancel” tab is for to ignore the notification.
+####1.	Susan actives the apps with her Android phone. At the homepage, Susan click in into the main page. Susan click the “call” page to key in the emergency contact to easily to find people.
+####2.	Next, Susan taps “Data Connect”. Susan can view, organize, access and download all the recorded data from her daughter Abby at “Secondary user’s data” tab. Susan will turn on her mobile phone and the sensor device’s Bluetooth to transfer the pervious data into the “History data” tab.
+####3.	In the “EDA” tab, Susan can see the graph of EDA from her daughter. Susan taps the “3-axis accelerometer” tab inside are the data of the movement and the activity of her daughter.
+####4.	Susan wants to see her daughter all the time, she wants to click the “Camera” tab to snap pictures and also can activate the camera of the sensor device. For the “Cancel” tab is for to ignore the notification.
