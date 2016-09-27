@@ -12,8 +12,21 @@
 
 ####1. Existing products
 
-######-Q Sensor 
-######-E4 Wristband
+#####-Q Sensor 
+###### A device  that can detect and record physiological signs of stress and excitement by measuring slight electrical changes in the skin.
+###### *Cons: - Data acquisition are not very accurate.
+
+#####-E4 Wristband
+###### A wearable wireless device designed for continuous, real-time data acquisition in daily life.
+
+- Record in the lab or at home with no hassle.
+- Empower your research with accurate data from everyday life.
+- Access and analyze your raw data with our secure cloud platform.
+- Use our mobile API to access real-time E4 data in your app.
+
+###### *Pros: - Users can monitor and understand their physiological signals better in real-time.
+###### *Cons: - Costly
+######        - There are too many sensors and data acquisition.
 
 ####2. relevant technologies
 
@@ -34,15 +47,25 @@
 ### c. Stakeholder Interviews (internal / external)
 
 Product vision
+Users are able to observe the condition of their children with autism all the time.
 
 ####Risks
 
+- Information does not updated in every moment.
+- Users do not notice the messages when they are answering a call.
+
 ####Obstacles
+
+- Accuracy of EDA and activities track
 
 ####Constraints
 
+- Missed out on sending notifications.
+- The app is useless if secondary users do not wear the wristband.
+
 ####Opportunities
 
+- Minimize the time needed to send notifications.
 
 ### d. User observations
 
