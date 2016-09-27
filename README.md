@@ -184,7 +184,7 @@ Describe necessary capabilities of the product
   ##Posture:
         The mode of attention are emotions of autistic child.
 
-    Input methods:
+  ##Input methods:
         This sensor detect the emotions and the application is uses touchscreen .
 
 
