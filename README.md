@@ -49,38 +49,13 @@ Product vision
 ####Primary Users
 
 -	potential users – Autistic children’s parents
--	(user’s) behaviours -  They are busy in their works, they cannot accompany their children all the time.
--	(user’s) attitudes - They are not expert in autism, so they do not know their children’s feeling and emotions.
+-	(user’s) behaviours - They are busy in their works, they cannot accompany their children all the time. They always phone the nanny of their child to know the emotion and activities of their child. 
+-	(user’s) attitudes - They are willing to know their child well through consult the expert in autism theraphy field. They always attend to the classes or programs that they can learn the strategies to communicate with their child.
 
 ####Secondary Users
 -	potential users – Autistic children
--	(user’s) behaviours -  They are having difficulties in social interaction, verbal and non-verbal communication, and repetitive behaviours.
--	(user’s) attitudes - 
-
-Infant to Six Months,
-does not smile back at you
-makes no eye contact
-does not look towards loud noises
-Unresponsive to people
-Tendency to focus on one item for a long period of time
-Resistance to being touched
-High sensitivity to sound, touch.
-
-
-By One Years Old,
-Not responding to their name
-No joyful expressions
-Lack of babbling
-Lack of eye contact
-Staring for a long time at items which aren't moving
-No gestures, such as pointing, showing, reaching, or waving.
-
-By Toddler Age,
-Delayed speech
-avoidance of making eye contact with people
-poor imitation skills (inability of imitating simple gestures or facial expressions)
-Non responsive to their name
-Does not express concern or understanding to people in distress
+-	(user’s) behaviours - They are having difficulties in social interaction, verbal and non-verbal communication, and repetitive behaviours. They make no eye contact, does not look towards loud noises and resist on touch. Besides, they like to focus on one item for a long period of time. They also show no respond to their name starting at the age of 10.
+-	(user’s) attitudes - They are willing to communicate with their parents through action, using pictures and echolalia which means the repetition of other people's words.
 
 
 ##2. Modeling
@@ -94,19 +69,15 @@ Does not express concern or understanding to people in distress
 
 ####1. Goals
 
-- As a mother, she wants to understand about her autistic child.
+- As a mother, she wants to understand about her autistic child, Abby.
 
 ####2. Patterns in user and customer behaviours
 
-- She busy in her works all the time and she has no time to accompany her child.
+- She busy in her works all the time and she has no time to accompany her child. She always phones the nanny to get to know Abby's emotion and activities all the time.
 
 ####3. Attitudes
 
-- She is not expert in autism.  She wants to understand their children’s feeling and emotions but she does not know the way.
-
-####4. Challenges
-
-- To understand her autistic child well.
+- She wants to understand Abby better. Besides professional autism therapy services, she and her husband bring Abby to interative with programs of autistic children once a month. Also, she and her husband attend to the training programs that teaches parents strategies for managing challenging behavior in children with autism when they have free time.
 
 ###b. Other Models
 
