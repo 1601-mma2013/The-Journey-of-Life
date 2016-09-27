@@ -121,9 +121,10 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 #####-Here is Susan’s context scenario:
 ######1.	While getting ready in the morning, Susan makes sure her child, Abby is wearing the E&F wristband before she is going to work.
 ######2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notification. 
-######3.	She phones the nanny of Abby and ask her about why Abby is having an emotional turmoil.
-######4.	The nanny told her that Abby is affected by the sound of the construction next door.
-######5.	Susan calls her husband to see if he is free and her husband told her that he can go back home to comfort Abby and he will bring Abby to a silent place.
+######3.	The app suggested fews ways for Susan to answer the notification. The app is having the calling button that allow Susan to call the nanny of Abby or her husband. The app is also having the camera button and cancel button. 
+######4.  Susan first choose to call the nanny but the nanny did not answer her phone call. Then, Susan call her husband but she gets a voicemail; he must out of service range. 
+######5.  Susan failed to contact the nanny and her husband. So, she click on the camera button from the app. This camera button is allow Susan to activate the camera of Abby's wristband and she can see what Abby is doing now. When the camera is activate, she sees that Abby is drawing in her room. After make sure that Abby is safe, she close the app and continue her meeting with her client.
+######6.	Five minutes later, the phones sounds a brief tone. Susan receive an instant message from the nanny:" Don't worry, Abby is scared by a rat just now. I had killed the rat and Abby has now calmed down."
 
 
 ###b. Requirements
