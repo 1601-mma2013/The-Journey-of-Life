@@ -232,7 +232,7 @@ Describe necessary capabilities of the product
 
 ####Differentiation of interaction from competitors
       - This application is specifically for parents by providing accurate data and information from the sensor device.
-      - Primary user can see thier autistic child's emotions all the time.
+      - Primary user can see their autistic child's emotions all the time.
 
 
 
