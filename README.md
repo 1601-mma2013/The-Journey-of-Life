@@ -49,8 +49,8 @@ Product vision
 ####Primary Users
 
 -	potential users – Autistic children’s parents
--	(user’s) behaviours - They are busy in their works, they cannot accompany their children all the time. They always phone the nanny of their child to know the emotion and activities of their child. 
--	(user’s) attitudes - They are willing to know their child well through consult the expert in autism theraphy field. They always attend to the classes or programs that they can learn the strategies to communicate with their child.
+-	(user’s) behaviours - They are busy in their works, they cannot accompany their children all the time. They always phone the nanny of their child to know the emotion and activities of their child. They always attend to the classes or programs that they can learn the strategies to communicate with their child. 
+-	(user’s) attitudes -  They are willing to know the emotions and conditions of their child when they are not beside their child. They are willing to know their child well through consult the expert in autism theraphy field. 
 
 ####Secondary Users
 -	potential users – Autistic children
@@ -120,7 +120,7 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 #####-Our persona is Susan Wong, a professional lawyer, whose goals are to understand her autistic child.
 #####-Here is Susan’s context scenario:
 ######1.	While getting ready in the morning, Susan makes sure her child, Abby is wearing the E&F wristband before she is going to work.
-######2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notifications. 
+######2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notification. 
 ######3.	She phones the nanny of Abby and ask her about why Abby is having an emotional turmoil.
 ######4.	The nanny told her that Abby is affected by the sound of the construction next door.
 ######5.	Susan calls her husband to see if he is free and her husband told her that he can go back home to comfort Abby and he will bring Abby to a silent place.
