@@ -173,7 +173,7 @@ Describe necessary capabilities of the product
 
 ####•	business requirements
 
-####•	technology: EDA sensor, 3-axis accelerometer, Camera 
+####•	technology: EDA sensor, 3-axis accelerometer, Camera, Phone
 
 
 ###2. Design Framework
