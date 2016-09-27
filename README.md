@@ -208,7 +208,7 @@ Describe necessary capabilities of the product
         The mode of attention are emotions of autistic child.
 
 ####Input methods:
-        This sensor detect the emotions and the application is uses touchscreen .
+        This sensor detect the emotions and the application is uses buttons .
 
 ####b.Functional and data elements 
 
