@@ -178,13 +178,13 @@ Describe necessary capabilities of the product
 ###a. Elements
 ####a. Form factor, posture and input methods
 
-  ##Form factor:
+  ####Form factor:
         This a sensor device and an application mobile phone.
 
-  ##Posture:
+  ####Posture:
         The mode of attention are emotions of autistic child.
 
-  ##Input methods:
+  ####Input methods:
         This sensor detect the emotions and the application is uses touchscreen .
 
 
