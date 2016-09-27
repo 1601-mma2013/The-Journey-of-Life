@@ -262,3 +262,4 @@ Describe necessary capabilities of the product
 
 #####Device (E&F wristband)
 [![14456728_599828330188338_906614571_o (1).jpg](https://s4.postimg.org/9z97ove1p/14456728_599828330188338_906614571_o_1.jpg)](https://postimg.org/image/pxhxf089l/)
+https://s13.postimg.org/t0dn299jb/Design_sketch.jpg
