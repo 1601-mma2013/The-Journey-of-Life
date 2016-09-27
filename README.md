@@ -159,14 +159,20 @@ Describe necessary capabilities of the product
 2.	Camera button: To activate the camera of the wristband so that you can observe what your child is doing.
 3.	Cancel button: To ignore the notifications.
 4.	Data connect button: Users can view, organize, assess, and download all of the secondary users’ recorded data on a secure cloud platform. Users can also view graphs of Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.
+
 #####Device (E&F Wristband)
 1. Flash memory: Store data                           
 2. Camera: Can be activate by the primary users through the app. Secondary users can use it to snap pictures and send the pictures to the primary users.                               
-3. Sensor: Detect the emotions of the secondary users by detecting Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.                  
+3. Sensor: Detect the emotions of the secondary users by detecting Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.      
+
 ####•	user mental models: 
+
 ####•	design imperatives: 
+
 ####•	product vision: Users are able to observe the conditions of their children with autism all the time.
+
 ####•	business requirements
+
 ####•	technology: EDA sensor, 3-axis accelerometer, Camera 
 
 
