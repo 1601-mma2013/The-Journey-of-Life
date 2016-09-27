@@ -121,13 +121,13 @@ Represent domain factors beyond individual users and customers 1. Workflows amon
 ###1. Requirements Definition
 ###a. Context Scenarios
 
--Our persona is Susan Wong, a professional lawyer, whose goals are to understand her autistic child.
--Here is Susan’s context scenario:
-1.	While getting ready in the morning, Susan makes sure her child, Abby is wearing the E&F wristband before she is going to work.
-2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notifications. 
-3.	She phones the nanny of Abby and ask her about why Abby is having an emotional turmoil.
-4.	The nanny told her that Abby is affected by the sound of the construction next door.
-5.	Susan calls her husband to see if he is free and her husband told her that he can go back home to comfort Abby and he will bring Abby to a silent place.
+#####-Our persona is Susan Wong, a professional lawyer, whose goals are to understand her autistic child.
+#####-Here is Susan’s context scenario:
+######1.	While getting ready in the morning, Susan makes sure her child, Abby is wearing the E&F wristband before she is going to work.
+######2.	When she is dealing with her client, her phone rings. She checks her phone and she received a notification from the app. Normally while she is in an appointment, she will mute her phone, but when Abby is experiencing emotional turmoil, the app will automatically send her a notifications. 
+######3.	She phones the nanny of Abby and ask her about why Abby is having an emotional turmoil.
+######4.	The nanny told her that Abby is affected by the sound of the construction next door.
+######5.	Susan calls her husband to see if he is free and her husband told her that he can go back home to comfort Abby and he will bring Abby to a silent place.
 
 
 ###b. Requirements
