@@ -230,43 +230,45 @@ Describe necessary capabilities of the product
         The mode of attention are emotions of autistic child.
 
 ####Input methods:
-        This sensor detect the emotions and the application is using mobile phone.
+        This sensor detect the emotions and the application is uses mobile phone.
 
 ####b.Functional and data elements 
 
 ####Fundamental subjects :
-     - Sensor device in one person.
+     - Primary users get the data acquisition that detected by secondary users .
 
 ####Relationship between each other :
-     -  After detect it to the secondary users, it will show the data in mobile application.
+     -  After detect the emotion of secondary users, it will show the data in mobile application.
 
 ####Functional elements based on functional requirements:
-     - Primary users can download the appliaction to check the data from the secondary users.
+     - Primary users can key in the emergency contacts and save the data of the secondary users.
 
 ####Accomplish user’s goals
-     - Primary users can know their autistic child's emotions all the time.
+     - Primary users can know their autistic child's(the secondary users) emotions all the time.
         
 ####Best fit the design principles
-     - One screen design with simple and easy to use, without confusing the user.
-
+     - One screen design with simple button to let the users check the data easily.
+     
 ####Fit within technology
-     - This application is done by are using mobile phone as the technology.
+     - This application is done by are using mobile phone and sensors as the technology.
 
 ####Differentiation of interaction from competitors
       - This application is specifically for parents by providing accurate data and information from the sensor device.
-      - Primary user can see their autistic child's emotions all the time.
+      - Primary users can observe secondary users' emotion all the time.
 
+####c. Functional groups and hierarchy
+[![Functional group and hierachy.jpg](https://s16.postimg.org/8pzf7bxbp/Functional_group_and_hierachy.jpg)](https://postimg.org/image/gvhh5hlkh/)
 
+####Interaction patterns and principles
+    - This application provide visible interaction design. The UI components such as buttons that are standard are easily understood for users to click and tap.
+     - This application provide learnable interaction design, which users learn the functions.
+     - This application provide consistent interaction design. Users able to focus on the context when the elements, behaviours and styles are consistent.
+
+####Select primary views (screens or states)
+     - By focusing user’s goal, the main view is the summarized emotional data of secondary users.
 
 ###Sketch
 
 #####Device (E&F wristband)
 [![14456728_599828330188338_906614571_o (1).jpg](https://s4.postimg.org/9z97ove1p/14456728_599828330188338_906614571_o_1.jpg)](https://postimg.org/image/pxhxf089l/)
 [![Design sketch.jpg](https://s13.postimg.org/t0dn299jb/Design_sketch.jpg)](https://postimg.org/image/83hexlbib/)
-
-###Key path Scenario
-1.	Susan actives the apps with her Android phone. At the homepage, Susan click in into the main page. Susan click the “call” page to key in the emergency contact to easily to find people.
-2.	Next, Susan taps “Data Connect”. Susan can view, organize, access and download all the recorded data from her daughter Abby at “Secondary user’s data” tab. Susan will turn on her mobile phone and the sensor device’s Bluetooth to transfer the pervious data into the “History data” tab.
-3.	In the “EDA” tab, Susan can see the graph of EDA from her daughter. Susan taps the “3-axis accelerometer” tab inside are the data of the movement and the activity of her daughter.
-4.	Susan wants to see her daughter all the time, she wants to click the “Camera” tab to activate the camera of the sensor device. For the “Cancel” tab is to ignore the notification.
-
