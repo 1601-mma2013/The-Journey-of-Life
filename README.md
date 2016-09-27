@@ -163,15 +163,23 @@ Describe necessary capabilities of the product
 2. Camera: Can be activate by the primary users through the app. Secondary users can use it to snap pictures and send the pictures to the primary users.                               
 3. Sensor: Detect the emotions of the secondary users by detecting Electrodermal Activity (EDA) also known as Galvanic Skin Response (GSR), Blood Volume Pulse (BVP), Acceleration, Heart Rate (HR), and Temperature.      
 
-####•	user mental models: 
+####•	user mental models:
+#####Primary users can observe the condition of secondary users all the time and get notifications when secondary users in bad emotional condition.
 
 ####•	design imperatives: 
+#####The application get the data that detected from the device.
+#####The application provides features of contacting the emergency contacts.
+#####The device provides features of sending notifications to primary users when secondary users in bad emotional condition.
 
-####•	product vision: Users are able to observe the conditions of their children with autism all the time.
+####•	product vision: 
+#####Users are able to observe the conditions of their children with autism all the time.
 
 ####•	business requirements
+#####Collected Information
+- Users prefer a simple and user friendly interface
 
-####•	technology: EDA sensor, 3-axis accelerometer, Camera, Phone
+####•	technology: 
+#####EDA sensor, 3-axis accelerometer, Camera, Phone
 
 
 ###2. Design Framework
@@ -187,30 +195,13 @@ Describe necessary capabilities of the product
 ####Input methods:
         This sensor detect the emotions and the application is uses touchscreen .
 
-####b.Functional and data elements 
 
-####Fundamental subjects :
-     - Sensor device in one person.
-
-####Relationship between each other :
-     -  After detect it to the secondary users, it will show the data in mobile application.
-
-####Functional elements based on functional requirements:
-     - Primary users can download the appliaction to check the data from the secondary users.
-
-####Accomplish user’s goals
-     - Secondary users can know their autistic child's emotions all the time.
-        
-####Best fit the design principles
-     - One screen design with simple and easy to use, without confusing the user.
-
-####Fit within technology
-     - This application is done by are using mobile phone as the technology.
-
-####Differentiation of interaction from competitors
-      - This application is specifically for parents by providing accurate data and information from the sensor device.
-      - Primary user can see thier autistic child's emotions all the time.
-
+#####functional and data elements 
+#####information - so that the user know how the sensor is performing
+#####functions - to display the heartbeat rate and stress level of the user
+#####mechanisms - performance rational thinking
+#####actions - 
+#####domain object models - sport watch
 
 
 ###Sketch
